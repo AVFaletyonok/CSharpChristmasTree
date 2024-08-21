@@ -1,6 +1,6 @@
 # Christmas Tree
 
-Application that allows you to remember winter freshness and Christmas eve.
+Application that allows you to remind winter freshness and Christmas eve.
 
 The application have the following functionality:
 
