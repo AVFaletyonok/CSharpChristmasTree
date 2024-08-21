@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CSharpChristmasTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|c:\\projects\\csharpchristmastree\\christmastree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|solutionrelative:christmastree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|C:\\Projects\\CSharpChristmasTree\\christmastree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|solutionrelative:christmastree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|C:\\Projects\\CSharpChristmasTree\\christmastree\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|solutionrelative:christmastree\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|C:\\Projects\\CSharpChristmasTree\\christmastree\\snowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|solutionrelative:christmastree\\snowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|C:\\Projects\\CSharpChristmasTree\\christmastree\\snowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|solutionrelative:christmastree\\snowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|C:\\Projects\\CSharpChristmasTree\\christmastree\\scales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEC1C23-BE7F-4693-B59C-28ADCF984EC9}|ChristmasTree\\ChristmasTree.csproj|solutionrelative:christmastree\\scales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ChristmasTree\\Form1.Designer.cs",
+              "ToolTip": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\Form1.Designer.cs",
+              "RelativeToolTip": "ChristmasTree\\Form1.Designer.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAASwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-08-20T22:58:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SnowForm.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\SnowForm.cs",
+              "RelativeDocumentMoniker": "ChristmasTree\\SnowForm.cs",
+              "ToolTip": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\SnowForm.cs",
+              "RelativeToolTip": "ChristmasTree\\SnowForm.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA2wDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-20T22:58:06.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SnowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\SnowForm.cs",
+              "RelativeDocumentMoniker": "ChristmasTree\\SnowForm.cs",
+              "ToolTip": "C:\\C# Lessons\\ChristmasTree\\ChristmasTree\\SnowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\C# Lessons\\ChristmasTree\\ChristmasTree\\SnowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-20T22:58:06.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scales.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\Scales.cs",
+              "RelativeDocumentMoniker": "ChristmasTree\\Scales.cs",
+              "ToolTip": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\Scales.cs",
+              "RelativeToolTip": "ChristmasTree\\Scales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:58:06.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\Form1.cs",
+              "RelativeDocumentMoniker": "ChristmasTree\\Form1.cs",
+              "ToolTip": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\Form1.cs",
+              "RelativeToolTip": "ChristmasTree\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:58:07.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Projects\\CSharpChristmasTree\\ChristmasTree\\Form1.cs",
+              "RelativeDocumentMoniker": "ChristmasTree\\Form1.cs",
+              "ToolTip": "C:\\C# Lessons\\ChristmasTree\\ChristmasTree\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\C# Lessons\\ChristmasTree\\ChristmasTree\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-20T22:58:07.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\C# Lessons\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+C:\C# Lessons\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.exe
+C:\C# Lessons\ChristmasTree\ChristmasTree\bin\Debug\ChristmasTree.pdb
+C:\C# Lessons\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csproj.AssemblyReference.cache
+C:\C# Lessons\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.Form1.resources
+C:\C# Lessons\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.Properties.Resources.resources
+C:\C# Lessons\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csproj.GenerateResource.cache
+C:\C# Lessons\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.csproj.CoreCompileInputs.cache
+C:\C# Lessons\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.exe
+C:\C# Lessons\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.pdb
+C:\C# Lessons\ChristmasTree\ChristmasTree\obj\Debug\ChristmasTree.SnowForm.resources
